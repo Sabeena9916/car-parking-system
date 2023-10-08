@@ -1,0 +1,39 @@
+#available{
+	
+	background-color:darkgreen;
+}
+
+#notavailable{
+	background-color: darkgray;
+	
+}
+#available1{
+	background-color: darkgreen;
+}
+#notavailable1{
+	background-color: darkgrey;
+
+}
+#available2{
+	background-color: darkgreen;
+}
+#notavailable2{
+	background-color: darkgrey;
+
+}
+#available3{
+	background-color: darkgreen;
+
+}
+#notavailable3{
+	background-color: darkgrey;
+
+}*{
+	font-family: 'Poppins', sans-serif;
+	margin:0; padding:0;
+	box-sizing: border-box;
+	outline: none; border:none;
+	text-transform: capitalize;
+	transition: all .2s linear;
+  }
+  

@@ -1,0 +1,20 @@
+body{
+    
+    background-color:white ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#name4{
+    background-color: white 
+}
+#border{
+   background-color: white 
+}
+body{
+    background-image:url('cr.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  };
